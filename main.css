@@ -80,3 +80,9 @@ a.cte {
 .container {
     background-color: #f6f6f6;
 }
+.row {
+    padding: 0px 5% 20px 5%;
+}
+.sport {
+    padding: 10px 5% 0px 5%;
+}
